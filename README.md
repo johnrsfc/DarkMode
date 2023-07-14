@@ -1,8 +1,9 @@
 <strong><h1 align="center">#Dark Mode</h1></strong>
 
-<p align="center">
-  <img alt="" src="./assets/cover.png" width="100%">
-</p>
+<div align="center" style="display: flex;">
+  <img alt="" style="border-radius: 20px;" src="./assets/light.png" width="50%">
+  <img alt="" style="border-radius: 20px;" src="./assets/dark.png" width="50%">
+</div>
 
 ## 🚀 Tecnologias
 
